@@ -1,2 +1,3 @@
 # Beaver-Reintroduction-Project
-Assessing suitability of sites for beaver reintroductions
+
+Do beavers affect stream clarity?
